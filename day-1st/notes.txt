@@ -1,0 +1,27 @@
+task 1 confirm that nmap is installed 						nmap --version
+
+
+task 2 finding Local IP: 192.168.144.18					nmap a
+
+
+task 3 this scan use synvhronus scan using for the live hosts		 nmap -sS <ip address>
+and found the live host are given below 
+
+Nmap scan report for 192.168.144.91
+PORT   STATE SERVICE
+53/tcp open  domain    
+
+Nmap scan report for 192.168.144.18
+All 1000 scanned ports on 192.168.144.18 are in ignored states.
+1000 ports scanned but all are closed.
+
+
+at 192.168.144.91 i found 53 port open 
+
+53 port is used for DNS domain name system 
+service that translate domain names into ip address 
+
+its normal to be open but it may cause abuse it its not configured 
+
+Important to ensure DNS servers are secured and only serve trusted clients.
+
