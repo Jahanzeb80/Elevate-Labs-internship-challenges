@@ -1,0 +1,32 @@
+Phishing Traits Summary – Day 02 Task
+
+After analyzing the sample email claiming to offer a virtual research assistant position at UC Berkeley, the following phishing traits were identified:
+
+1. **Suspicious Sender Address**
+   - The sender’s address is jobs@ucberkeley-secure.com, which mimics the official university domain (berkeley.edu) but is not legitimate. This is a common spoofing method.
+
+2. **Missing or Forged Email Headers**
+   - Simulated email headers indicate SPF failure, missing DKIM, and no DMARC policy — all signs of poor authentication and likely spoofing.
+
+3. **No Legitimate Contact Channels**
+   - The email asks the recipient to text a phone number (510-216-7076), avoiding official channels and pushing the conversation into a less secure medium.
+
+4. **Urgent Language**
+   - The phrase “urgently needs undergraduates” is used to create a sense of urgency and rush the reader into responding quickly.
+
+5. **Indirect Requests**
+   - The email withholds job details unless the user replies first, which is suspicious and commonly used in scams to gather personal data.
+
+6. **Requests for Non-Job-Related Tasks**
+   - Asking the recipient to look up prices for office supplies (laptop, printer, date stamp) is irrelevant and a red flag. This is often part of a purchase scam or setup for future fraud.
+
+7. **Poor Grammar and Informal Language**
+   - Awkward phrasing like “remote chores” and inconsistent formatting reduce the professionalism expected from a top university.
+
+8. **No Links or Attachments, But Still Dangerous**
+   - Even without links or attachments, the email is dangerous because it uses social engineering tactics (urgency, impersonation, phone contact) to exploit trust.
+
+**Conclusion:**
+This email is a well-disguised phishing attempt. It impersonates a respected institution, uses urgency, requests personal info, and avoids official communication channels to manipulate the target. It should be reported and ignored.
+
+

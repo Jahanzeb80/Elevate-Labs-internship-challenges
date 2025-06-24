@@ -1,0 +1,26 @@
+Header Name	Header Value
+Return-Path	<jobs@ucberkeley-secure.com>
+Received-SPF	fail (google.com: domain of jobs@ucberkeley-secure.com does not designate 203.0.113.45 as permitted sender)
+Authentication-Results	mx.google.com; spf=fail (google.com: domain of jobs@ucberkeley-secure.com does not designate 203.0.113.45 as permitted sender); dkim=none; dmarc=none;
+From	jobs@ucberkeley-secure.com
+To	hashjahan02@gmail.com
+Subject	Urgent Hiring: Virtual Research Assistant Position at UC Berkeley
+Date	Tue, 24 Jun 2025 10:00:00 -0700
+Message-ID	<randomstring@mail.ucberkeley-secure.com>
+Received Header
+
+Return-Path: <jobs@ucberkeley-secure.com>
+Received: from mail.ucberkeley-secure.com (203.0.113.45) by mx.google.com with SMTP id abc123;
+    Tue, 24 Jun 2025 10:00:00 -0700 (PDT)
+Received-SPF: fail (google.com: domain of jobs@ucberkeley-secure.com does not designate 203.0.113.45 as permitted sender)
+Authentication-Results: mx.google.com;
+       spf=fail (google.com: domain of jobs@ucberkeley-secure.com does not designate 203.0.113.45 as permitted sender);
+       dkim=none;
+       dmarc=none;
+From: jobs@ucberkeley-secure.com
+To: hashjahan02@gmail.com
+Subject: Urgent Hiring: Virtual Research Assistant Position at UC Berkeley
+Date: Tue, 24 Jun 2025 10:00:00 -0700
+Message-ID: <randomstring@mail.ucberkeley-secure.com>
+
+i analze those headers using mxtoolbox.com and what i get the actual headers could be those are defined before and what i got in phising mail 

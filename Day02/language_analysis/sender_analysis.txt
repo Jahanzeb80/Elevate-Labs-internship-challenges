@@ -1,0 +1,3 @@
+sender's email address  jobs@ucberkeley-secure.com 
+while the legitimate UC Berkeley email addresses usually ends with @berkeley.edu.
+this is common technique of spoofing mail 
